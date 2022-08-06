@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 --> 🔭 I’m currently working on Financial Engineering Team
 🌱 I’m currently learning ML for Stock Prediction
 
-
 <br/>
 
 ## 💻 My Stacks<br/>
@@ -27,7 +26,13 @@ Programming :
 Framework : 
 <a href="https://docs.microsoft.com/ko-kr/dotnet/" target="_blank"><img src="https://img.shields.io/badge/.Net-512BD4?style=flat-square&logo=.Net&logoColor=white"/></a>
 <a href="https://www.tensorflow.org" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+
+Tools :
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>
+<a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
 <a href="https://www.docker.com" target="_blank"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+<a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
+<a href="https://www.anaconda.com/" target="_blank"><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>
 
 <br/>
 

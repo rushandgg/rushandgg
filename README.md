@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
---> 📚  I majored in math at Dongguk University
-🔭 I’m currently working on Financial Engineering Team
+--> 📚 I majored in math at Dongguk University
+🔭 I’m currently working on Financial Engineering Team<br/>
 🌱 I’m currently learning ML for Stock Prediction
 
 <br/>

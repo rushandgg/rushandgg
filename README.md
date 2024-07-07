@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 --> 📚 I majored in mathematics at Dongguk University
-🔭 I’m currently working on Financial Engineering Team<br/>
-🌱 I’m currently learning ML for Stock Prediction
+🔭 I’m currently working on my house<br/>
+🌱 I’m currently learning programming to do stock trading
 
 <br/>
 
